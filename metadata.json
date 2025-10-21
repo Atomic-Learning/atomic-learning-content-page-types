@@ -11,7 +11,7 @@
     "prerequisites": [
         {
             "slug": "atomic-learning-introduction",
-            "description": ""
+            "description": "Introduces the basics of the Atomic Learning platform."
         }
     ],
     "related": [
