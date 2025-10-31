@@ -9,19 +9,10 @@
     ],
     "duration": 3,
     "prerequisites": [
-        {
-            "slug": "atomic-learning-introduction",
-            "description": "Introduces the basics of the Atomic Learning platform."
-        }
+        "atomic-learning-introduction"
     ],
     "related": [
-        {
-            "slug": "atomic-learning-media-types",
-            "description": "Describes which different media types you can include in an Atomic Learning content page."
-        },
-        {
-            "slug": "atomic-learning-sequencing",
-            "description": "Describes how to sequence Atomic Learning content pages."
-        }
+        "slug": "atomic-learning-media-types",
+        "slug": "atomic-learning-sequencing"
     ]
 }
